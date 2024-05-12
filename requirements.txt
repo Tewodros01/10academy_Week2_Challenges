@@ -3,3 +3,7 @@ matplotlib
 seaborn
 textblob
 nltk
+streamlit
+numpy
+scikit-learn
+sqlalchemy
